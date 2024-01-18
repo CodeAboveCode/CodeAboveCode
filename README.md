@@ -1,7 +1,7 @@
 
 # LET'S GO TOGETHER!
-[coder](https://github.com/CodeAboveCode/CodeAboveCode/assets/157008329/581e92c5-b37c-4bae-b856-d8e1cdc45eb2)
 
+![coder](https://github.com/CodeAboveCode/CodeAboveCode/assets/157008329/ea3d50f6-fad2-40d4-8f58-5e7d6623a114)
 
 - 👋 Hi, I’m @CodeAboveCode
 - 👀 I’m interested in Fullstack Developer career
